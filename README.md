@@ -1,0 +1,2 @@
+# NotOrtalamas--Hesaplama
+java pratikleri
